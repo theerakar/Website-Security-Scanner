@@ -1,0 +1,20 @@
+--- Final Consolidated Report ---
+Target: scanme.nmap.org
+
+Port Scan Results:
+  [+] Port 22 is OPEN
+  [+] Port 80 is OPEN
+
+Security Header Results:
+  [-] 'Strict-Transport-Security' header is MISSING.
+  [-] 'X-Frame-Options' header is MISSING.
+  [-] 'X-Content-Type-Options' header is MISSING.
+  [-] 'Content-Security-Policy' header is MISSING.
+  [-] 'X-XSS-Protection' header is MISSING.
+
+Scan Summary:
+Total Open Ports: 2
+Security Headers Found: 0 out of 5
+
+Scan Complete.
+Thank you for using the scanner tool!

@@ -1,0 +1,21 @@
+--- Final Consolidated Report ---
+Target: securityheaders.com
+
+Port Scan Results:
+  [+] Port 80 is OPEN
+  [+] Port 443 is OPEN
+  [+] Port 8080 is OPEN
+
+Security Header Results:
+  [-] 'Strict-Transport-Security' header is MISSING.
+  [+] 'X-Frame-Options' header is PRESENT.
+  [+] 'X-Content-Type-Options' header is PRESENT.
+  [-] 'Content-Security-Policy' header is MISSING.
+  [-] 'X-XSS-Protection' header is MISSING.
+
+Scan Summary:
+Total Open Ports: 3
+Security Headers Found: 2 out of 5
+
+Scan Complete.
+Thank you for using the scanner tool!

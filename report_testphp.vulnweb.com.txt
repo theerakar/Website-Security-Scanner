@@ -1,0 +1,19 @@
+--- Final Consolidated Report ---
+Target: testphp.vulnweb.com
+
+Port Scan Results:
+  [+] Port 80 is OPEN
+
+Security Header Results:
+  [-] 'Strict-Transport-Security' header is MISSING.
+  [-] 'X-Frame-Options' header is MISSING.
+  [-] 'X-Content-Type-Options' header is MISSING.
+  [-] 'Content-Security-Policy' header is MISSING.
+  [-] 'X-XSS-Protection' header is MISSING.
+
+Scan Summary:
+Total Open Ports: 1
+Security Headers Found: 0 out of 5
+
+Scan Complete.
+Thank you for using the scanner tool!
